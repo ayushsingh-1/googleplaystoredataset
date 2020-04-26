@@ -5,6 +5,12 @@ Data Mining Google Data Play Store Dataset
 
 https://colab.research.google.com/drive/1OJBEiT6B4j4hSIkNP8ZcOsORtun352fz
 
+## Team members:
+1. Kartik Mathur
+2. Trinh Vu
+3. Sarah Gates
+4. Ayush Singh
+
 ## Objectives
 
 Our objectives for our project with the Google Play Store data encompass the following areas:
